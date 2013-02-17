@@ -5,17 +5,17 @@
 <entry key="power.trigger">0</entry>
 
 <!-- roll -->
-<entry key="pid.0.p">4.0</entry>
+<entry key="pid.0.p">2.0</entry>
 <entry key="pid.0.i">0.031</entry>
-<entry key="pid.0.d">23.0</entry>
+<entry key="pid.0.d">10.0</entry>
 
 <!-- pitch -->
-<entry key="pid.1.p">6.9</entry>
+<entry key="pid.1.p">2.0</entry>
 <entry key="pid.1.i">0.03</entry>
-<entry key="pid.1.d">23.0</entry>
+<entry key="pid.1.d">10.0</entry>
 
 <!-- yaw -->
-<entry key="pid.2.p">8.5</entry>
+<entry key="pid.2.p">2.0</entry>
 <entry key="pid.2.i">0.045</entry>
 <entry key="pid.2.d">0.0</entry>
 
