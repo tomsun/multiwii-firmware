@@ -40,7 +40,7 @@
     //#define OCTOX8
     //#define OCTOFLATP
     //#define OCTOFLATX
-    //#define FLYING_WING
+    #define FLYING_WING
     //#define VTAIL4
     //#define AIRPLANE
     //#define SINGLECOPTER
